@@ -1,2 +1,2 @@
-# smpp-pdu
-SMPP Protocol Data Unit (PDU) decoder written in Go 
+# smppd-cli
+SMPPd service command line interface (CLI)
